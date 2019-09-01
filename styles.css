@@ -1,0 +1,153 @@
+/*hr {
+  border-style: none;
+  border-top: dotted;
+  width: 5%;
+  border-color: grey;
+  border-width: 6px;
+  margin: 100px auto;
+}*/
+body{
+  background-color: #bbbbbb;
+}
+
+h1{
+  font-size: 100px; 
+  text-align: center; 
+  padding: 12px 0 50px 0;
+}
+.container{
+	/*background-color:*/
+}
+
+.navbar {
+	  background-color: black;
+	/*position: fixed;*/
+	padding-bottom: 10px;
+
+  /*padding:0 0 4.5rem 0;*/
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.53rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0 20px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+
+.jumbotron{
+  background-image:  url("images/elegant-floral-vector-background.jpg");
+	padding: 100px 100px 100px 100px;
+  color: black;
+  
+ /* background-repeat: no-repeat;*/
+}
+
+.card {
+		text-align: center;
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+.card-header{
+	text-align: center;
+}
+
+.education{
+  background-image:  url("images/low-poly.png");
+	padding: 50px 100px 100px;
+
+}
+
+.edu-col{
+	padding: 0 2%;
+} 
+
+.cardbody{
+	margin: 0 auto;
+	padding: 20px 12px;
+}
+
+.myskills{
+  background-color: #212529;
+  color: white;
+  padding: 50px 50px 100px 50px;
+}
+.perc{
+  color:black;
+}
+
+.progress-bar-success{
+  background-color: #83b582;
+}
+
+
+
+
+/* Internships Section */
+
+.interns{
+  background-color: #ff8f56;
+  padding: 70px 70px 100px 70px;
+}
+
+
+/*HOBBIES*/
+.hobbies{
+	padding: 50px 0 0 100px;
+
+}
+.hob_img{
+  border-radius: 20%;
+  size:100%;
+}
+.hobbi-row{
+	/*text-align: center;*/
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+	width: 50%;
+	margin: auto;
+}
+
+#contact { 
+  padding: 7% 8%;
+  
+  text-align: center;
+  background-color: #fddede;
+  position: relative;
+}
+.features-box {
+  padding: 8%;
+}
+.features-circle {
+  align-content: center;
+  margin-bottom: 1rem;
+}
+.features-circle:hover {
+  color: black;
+}
+.features {
+  font-size: 1.5rem;
+ 
+  font-weight: bold;
+  text-align: center;
+}
+.features-description {
+  text-align: center;
+  
+}
+
+.footer{
+	text-align: center;
+	padding: 50px 20px
+}
+.btn{
+	margin: 20px auto;
+}
